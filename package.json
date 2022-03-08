@@ -20,7 +20,7 @@
         "redux-promise": "^0.6.0",
         "redux-thunk": "^2.3.0",
         "sonarr-api": "^0.2.0",
-        "urijs": "^1.19.1"
+        "urijs": "^1.19.10"
     },
     "devDependencies": {
         "enzyme": "^3.10.0",
